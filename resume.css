@@ -1,0 +1,20 @@
+.main-image { 
+  border: solid black 10px;
+  border-radius: 50%;
+
+  }
+
+body { 
+  font-family: "Arial", "Lobster";
+  }
+
+h1 {
+  background-color: grey;
+  padding: 15px;
+}
+
+.section-title {
+  text-transform: uppercase;
+  color: tomato;
+
+}
